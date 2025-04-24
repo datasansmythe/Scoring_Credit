@@ -1,0 +1,5 @@
+# Données
+# Ignore les répertoires de données et fichiers volumineux
+data/
+*.csv
+ 
