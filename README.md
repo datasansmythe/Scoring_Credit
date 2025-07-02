@@ -6,4 +6,7 @@ Ainsi dans la base de donnée Train on a la variable Target avec les labels:
 •	1 : Le client rencontre des difficultés de remboursement (il a fait défaut)
 
 •	0 : Autre cas
+
+# Note
+Pour avoir accès aux données de deploiement, veuillez récuperer les données sur ce lien : https://drive.google.com/drive/folders/172wGg94AE0S4_okDArQuM6BFI0YOXlxV?usp=sharing
  
