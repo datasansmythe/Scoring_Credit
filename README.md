@@ -12,5 +12,5 @@ Pour avoir accès aux données de deploiement, vous pouvez les récuperer sur ce
 
 # Ressources
 - Projet Kaggle : https://www.kaggle.com/competitions/home-credit-default-risk/data
-- https://www.kaggle.com/code/willkoehrsen/introduction-to-manual-feature-engineering
+- https://www.kaggle.com/code/introduction-to-manual-feature-engineering
 - etc...
